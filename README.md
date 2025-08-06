@@ -97,8 +97,8 @@ Used `RandomizedSearchCV` with 5-fold cross-validation to tune:
 🗄️ notebooks/
 📂   └— churn_prediction_pipeline.ipynb
 🗄️ visuals/
-📂   ├— churn_distribution.png
-📂   └— model_performance.png
+📂   ├— model_performance A.png
+📂   └— model_performance B.png
 🗄️ README.md
 🗄️ requirements.txt
 ```
